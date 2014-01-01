@@ -17,7 +17,6 @@ FEATURES
 --------
 - [ ] Flume-style interceptors
 - [ ] json -> msgpack for encoding/decoding for sqlite channel
-- [ ] Working 'memory' channel (adapt ChanChannel?)
 - [ ] Filesystem channel (pretty low priority)
 - [ ] DB Sink (Reddis?)
 
@@ -32,6 +31,7 @@ BUGS
 COMPLETED
 =========
 
+- [x] Working 'memory' channel
 - [x] license (attach MIT)
 - [x] github public
 - [x] Vagrant
